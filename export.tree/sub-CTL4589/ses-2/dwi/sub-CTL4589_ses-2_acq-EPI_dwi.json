@@ -1,0 +1,17 @@
+{
+    "MagneticFieldStrength": "14T",
+    "Console": "Varian",
+    "InstitutionName": "CIBM Center for Biomedical Imaging, Switzerland",
+    "Description": "Diffusion-weighted imaging",
+    "PulseSequence": "semi-adiabatic pulsed-gradient spin-echo segmented echo-planar-imaging (PGSE-EPI)",
+    "Delta (Separation)": 27,
+    "delta (duration)": 4,
+    "EchoTime": 48,
+    "RepetitionTime": 2500,
+    "FOVLength": 23,
+    "FOVWidth": 17,
+    "VoxelSize1": 0.18,
+    "VoxelSize2": 0.27,
+    "Slices": 9,
+    "SliceThickness": 1
+}

@@ -1,0 +1,17 @@
+{
+    "MagneticFieldStrength": "14T",
+    "Console": "Bruker BioSpin",
+    "InstitutionName": "CIBM Center for Biomedical Imaging, Switzerland",
+    "Description": "Diffusion-weighted imaging",
+    "PulseSequence": "DTI EPI",
+    "Delta (Separation)": 27,
+    "delta (duration)": 4,
+    "EchoTime": 48,
+    "RepetitionTime": 2500,
+    "FOVLength": 23,
+    "FOVWidth": 17,
+    "VoxelSize1": 0.1796875,
+    "VoxelSize2": 0.265625,
+    "Slices": 13,
+    "SliceThickness": 1.0
+}
