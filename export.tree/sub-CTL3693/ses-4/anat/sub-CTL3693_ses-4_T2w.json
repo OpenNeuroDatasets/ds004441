@@ -1,0 +1,11 @@
+{
+    "MagneticFieldStrength": "14T",
+    "Console": "Varian",
+    "InstitutionName": "CIBM Center for Biomedical Imaging, Switzerland",
+    "SequenceName": "Fast Spin-echo Multi-slice",
+    "RepetitionTime": 3200.0,
+    "EchoTime": 20.0,
+    "EffectEchoTime": 10.168,
+    "FlipAngle": 90,
+    "EchoTrainLength": 4
+}
